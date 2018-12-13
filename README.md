@@ -1,2 +1,0 @@
-# MST
-Minimum spanning tree
